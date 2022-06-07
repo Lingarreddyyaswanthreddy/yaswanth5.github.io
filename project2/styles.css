@@ -1,0 +1,35 @@
+		body > div > ul > li{
+			color: red;
+			font-size: 32px;
+			float: left;
+			padding: 20px;
+		}
+		ul > li > a:hover{
+			color: green;
+		}
+		footer {
+		    clear: both;
+		    position: relative;
+		    height: 400px;
+		    text-align: center;
+		    margin-top: 530px;
+		    color: blue;
+		}
+		.part1{
+		    float: left;
+		    background: #e5dbdb94;
+		    width: 33.3%;
+		    height: 250px;
+		}
+		.part2{
+		    float: left;
+		    background: #dff1dfb8;
+		    width: 33.3%;
+		    height: 250px;
+		}
+		.part3{
+		    float: left;
+		    background: #dedef1ab;
+		    width: 33.3%;
+		    height: 250px;
+		}
